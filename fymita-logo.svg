@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Fymita Group logo</title>
+  <desc id="desc">Stylized cyan and blue Fymita Group mark</desc>
+  <path fill="#28b8f5" d="M92 72h216v54H145v42h163v54H145v106H92V72Z"/>
+  <path fill="#1599df" d="M92 72v125c0 39 21 61 60 61h116v-38H161c-12 0-16-7-16-23V72H92Z"/>
+  <path fill="#1599df" d="M237 184h71v54h-47v38c0 48-17 78-59 95V258h35v-74Z"/>
+</svg>
